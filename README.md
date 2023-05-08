@@ -2,7 +2,7 @@
 
 Repository for Thuan's qualifying exam
 
-Some Goals
+Some Goals:
 
 1. At least 15 pages of IEEE ACCESS ( 1 Page per week)
 
