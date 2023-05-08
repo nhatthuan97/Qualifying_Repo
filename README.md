@@ -1,6 +1,11 @@
 # Qualifying_Repo
 
 Repository for Thuan's qualifying exam
+- Presentation.pptx: the main presentation for the qualifying exam
+- Reading_Report.pptx: the page for the summary of all relevant paper
+- Qualifying.ipynb: Jupyter Notebook for the current project
+- Data directory: Data used for training the ML model
+- papers directory: All relevant papers in PDF format.
 
 Some Goals:
 
