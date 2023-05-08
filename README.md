@@ -4,7 +4,7 @@ Repository for Thuan's qualifying exam
 
 Some Goals
 
-1.At least 15 pages of IEEE ACCESS ( 1 Page per week)
+1. At least 15 pages of IEEE ACCESS ( 1 Page per week)
 
 2. At least 3-4 slides per week
 
